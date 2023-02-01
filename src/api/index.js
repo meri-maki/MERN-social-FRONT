@@ -1,1 +1,1 @@
-export const BASE_URL = `http://localhost:${process.env.PORT || 6001}`
+export const BASE_URL = `https://mern-social-backend-bfdl.onrender.com`
